@@ -3,6 +3,13 @@ RailsLite is an MVC framework web server inspired by Ruby on Rails.
 
 #Features
 
+- Renders content and handles redirects
+- Protects against double rendering
+- Deserializes, reads, and stores JSON cookie data including session data
+- Router matches routes and handles bad requests
+- Builds methods for GET, PUT, POST, and DELETE patterns.
+- Calls HTTP methods with route information
+
 #Using RailsLite
 Require the 'controller_base.rb' and 'router.rb' in your server code.
 
