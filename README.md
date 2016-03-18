@@ -1,5 +1,5 @@
-#RailsLite
-RailsLite is an MVC framework web server inspired by Ruby on Rails.
+#MiniRails
+MiniRails is an MVC framework web server inspired by Ruby on Rails.
 
 #Features
 
@@ -10,7 +10,7 @@ RailsLite is an MVC framework web server inspired by Ruby on Rails.
 - Builds methods for GET, PUT, POST, and DELETE patterns.
 - Calls HTTP methods with route information
 
-#Using RailsLite
+#Using MiniRails
 Require the 'controller_base.rb' and 'router.rb' in your server code.
 
 ###Using the Controller
